@@ -1,1 +1,2 @@
-# mr-bombastic
+## Contribution
+- Hukum: GitHub setup, file upload
